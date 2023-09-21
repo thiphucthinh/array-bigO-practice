@@ -44,5 +44,5 @@ function shiftTest(arr) {
 const arr = Array.from({ length: 100 }, (_, index) => index + 1);
 shiftTest(arr);
 
-//Time complexity: O(1)
-//Space complexity: O(n)
+//Time complexity: O(n)
+//Space complexity: O(1)

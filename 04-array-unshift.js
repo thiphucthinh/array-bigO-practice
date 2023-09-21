@@ -48,4 +48,4 @@ function unshiftTest(n) {
 unshiftTest(100);
 
 //Time complexity: O(n)
-//Space complexity: O(n)
+//Space complexity: O(1)

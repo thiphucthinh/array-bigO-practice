@@ -57,5 +57,5 @@ function randomNumberArr(max) {
 const arr1 = randomNumberArr(100);;
 spliceTest(arr1);
 
-// Time complexity: O(n)
+// Time complexity: O(n^2)
 // Space complexity: O(1)
